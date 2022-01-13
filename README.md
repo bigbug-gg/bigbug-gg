@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on PHP.
+- 🌱 I’m currently learning Kotlin/Rust.
+- 📫 How to reach me: bigbug-gg@qq.com.
+- ⚡ Fun fact:Chinase Boy，Want use Rust do anything.
+
+
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
