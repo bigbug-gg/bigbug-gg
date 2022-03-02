@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Kotlin/Rust.
 - 📫 How to reach me: bigbug-gg@qq.com.
-- ⚡ Fun fact:From The China.
+- ⚡ Fun fact: PHP is the best programming language 😄
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
