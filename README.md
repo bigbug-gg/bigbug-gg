@@ -1,8 +1,11 @@
 ### Hi I'm bigbug-gg 👋
 
-- 🌱 I’m currently learning Kotlin/Rust.
-- 📫 How to reach me: bigbug-gg@qq.com.
-- ⚡ Fun fact: PHP is the best programming language 😄
+- 🔭 I’m currently working on ShenZhen China.
+- 🌱 I’m currently learning DDD.
+- 🤔 I’m looking for help with English.
+- 📫 How to reach me: bigbug-gg@qq.com
+- 😄 Pronouns: The 996 life around with me.
+- ⚡ Fun fact: Rust very fast.
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
