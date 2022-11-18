@@ -1,7 +1,7 @@
 ### Hi I'm bigbug-gg 👋
 
 - What is living? Just now.
-- Front End: Vue
+- Front End: Vue/HTML+CSS/Js
 - Back End:Rust/Golang/PHP/Kontlin
 - DB: MySQL/PostgresQL/Redis
 - 📫 bigbug-gg@qq.com
