@@ -1,6 +1,10 @@
 ### Hi I'm bigbug-gg 👋
 
 - What is living? Just now.
+- Front End: Vue
+- Back End:Rust/Golang/PHP/Kontlin
+- DB: MySQL/PostgresQL/Redis
+- 📫 bigbug-gg@qq.com
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
