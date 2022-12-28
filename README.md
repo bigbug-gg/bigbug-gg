@@ -1,9 +1,9 @@
 ### Hi I'm bigbug-gg 👋
 
-- What is living? Just now.
-- Front End: Vue/HTML+CSS/Js
-- Back End:Rust/Golang/PHP/Kontlin
-- DB: MySQL/PostgresQL/Redis
+- Try to be a freelance developer,Living in Shenzhen,China 
+- Front End: Vue.js/Nuxt.js/Html+Css/Tailwindcss..
+- Back End:Rust/Golang/PHP/Kotlin..
+- DB: MySQL/PostgresQL/Redis..
 - 📫 bigbug-gg@qq.com
 
 <!--
