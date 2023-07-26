@@ -1,7 +1,7 @@
 ### Hi I'm bigbug-gg 👋
 
-- Try to be a freelance developer,Living in Shenzhen,China 
-- Front End: Vue.js/Nuxt.js/Html+Css/Tailwindcss..
+- Living in Shenzhen,China. 
+- Front End: Vue.js/Nuxt.js/Html+Css/Tailwindcss.
 - Back End:Rust/Golang/PHP/Kotlin..
 - DB: MySQL/PostgresQL/Redis..
 - 📫 bigbug-gg@qq.com
