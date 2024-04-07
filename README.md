@@ -1,9 +1,7 @@
 ### Hi I'm bigbug-gg 👋
 
-- Living in Shenzhen,China. 
-- Front End: Vue.js/Nuxt.js/Html+Css/Tailwindcss.
-- Back End:Rust/Golang/PHP/Kotlin..
-- DB: MySQL/PostgresQL/Redis..
+- Living in Shenzhen,China. Network application developers.
+- Is good at Rust、Golang、PHP and JS\TS
 - 📫 bigbug-gg@qq.com
 
 <!--
