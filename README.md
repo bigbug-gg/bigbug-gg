@@ -1,6 +1,6 @@
 ### Hi I'm bigbug-gg 👋
 
-- Living in Shenzhen,China. Network application developers.
+- Residing in Shenzhen, China, as network application developers.
 - Is good at Rust、Golang、PHP and JS\TS
 - 📫 bigbug-gg@qq.com
 
