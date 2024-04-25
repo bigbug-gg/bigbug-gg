@@ -1,7 +1,7 @@
 ### Hi I'm bigbug-gg 👋
 
 - Residing in Shenzhen, China, as network application developers.
-- Is good at Rust、Golang、PHP and JS\TS
+- Is good at Rust、Golang、PHP、JS & TS
 - 📫 bigbug-gg@qq.com
 
 <!--
