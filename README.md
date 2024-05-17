@@ -1,8 +1,9 @@
 ### Hi I'm bigbug-gg 👋
 
-- Residing in Shenzhen, China, as network application developers.
-- Is good at Rust、Golang、PHP、JS & TS
-- 📫 bigbug-gg@qq.com
+- 🏠 I am a network application developer residing in Shenzhen, China.
+- 😎 Skills: I am proficient in Rust, Go, PHP, JavaScript, and TypeScript.
+- 📩 How to reach me: bigbug-gg@qq.com
+- 😄 Fun fact: Chinese is my native language, and I am capable of reading English. However, I rely on machine translation for writing and comprehension. In case you find a sentence with grammatical mistakes or that is hard to comprehend, please first translate it into Chinese, then back to English.
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
