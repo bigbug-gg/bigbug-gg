@@ -2,7 +2,7 @@
 
 - 🏠 I am a network application developer residing in Shenzhen, China.
 - 😎 Skills: My expertise includes Rust, Go, PHP, JavaScript, and TypeScript.
-- 📩 How to reach me: bigbug-gg@qq.com
+- 📩 How to reach me: bigbug.site@gmail.com
 - 😄 Fun fact: Chinese is my native language, and I am capable of reading English. However, I rely on machine translation for writing and comprehension. In case you find a sentence with grammatical mistakes or that is hard to comprehend, please first translate it into Chinese, then back to English.
 
 <!--
