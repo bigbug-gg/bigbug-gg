@@ -1,6 +1,6 @@
 ### Hi I'm bigbug-gg 👋
 
-- 🏠 I'm a software developer from China.
+- 🏠 I am a full-stack software developer based in China.
 - 😎  My expertise includes Rust, Go, PHP, JavaScript, and TypeScript.
 - 📩 How to reach me: bigbug.site@gmail.com
 
