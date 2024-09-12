@@ -3,7 +3,7 @@
 - 🏠 I'm a software developer from China.
 - 😎 Skills: My expertise includes Rust, Go, PHP, JavaScript, and TypeScript.
 - 📩 How to reach me: bigbug.site@gmail.com
-- 😄 Fun fact: Chinese is my native language, and I am capable of reading English. However, I rely on machine translation for writing and comprehension. In case you find a sentence with grammatical mistakes or that is hard to comprehend, please first translate it into Chinese, then back to English.
+- 😄 Fun fact: Chinese is my native language.
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
