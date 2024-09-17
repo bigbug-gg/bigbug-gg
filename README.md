@@ -1,7 +1,6 @@
-### Hi I'm bigbug-gg 👋
+### Welcome!
 
 - 🏠 I am a full-stack software developer based in China.
-- 📩 bigbug.site@gmail.com
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
