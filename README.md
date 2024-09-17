@@ -1,8 +1,7 @@
 ### Hi I'm bigbug-gg 👋
 
 - 🏠 I am a full-stack software developer based in China.
-- 😎  My expertise includes Rust, Go, PHP, JavaScript, and TypeScript.
-- 📩 How to reach me: bigbug.site@gmail.com
+- 📩 bigbug.site@gmail.com
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
