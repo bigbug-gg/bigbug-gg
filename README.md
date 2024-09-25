@@ -1,6 +1,7 @@
 ### Welcome!
 
 - 🏠 Hello, my name is Gavin Chen, with 陈刚 as my Chinese name. I'm a full-stack web development engineer hailing from China.
+- 📫 How to reach me: bigbug.site@gmail.com
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
