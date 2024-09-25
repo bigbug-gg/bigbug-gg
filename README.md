@@ -1,6 +1,6 @@
 ### Welcome!
 
-- 🏠 I am a full-stack software developer based in China.
+- 🏠 Hello, my name is Gavin Chen, with 陈刚 as my Chinese name. I'm a full-stack web development engineer hailing from China.
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
