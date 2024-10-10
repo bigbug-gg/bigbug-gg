@@ -1,6 +1,6 @@
 ### Welcome!
 
-- 🏠 你好，我叫陈刚，中国人，全栈 WEB 开发。
+- 🏠 Hello，我叫陈刚，来自中国人，全栈 WEB 开发。
 - 📫 邮箱: bigbug.site@gmail.com
 - ⚡赞助我:  可以通过爱发电赞助我，让我更有精力从事开源软件开发 [爱发电](https://ifdian.net/a/bigbug-gg)
 - 🌱 作品：[[traffic_forward]](https://crates.io/crates/traffic_forward)
