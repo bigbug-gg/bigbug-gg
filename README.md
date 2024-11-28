@@ -2,7 +2,7 @@
 
 - 🏠 Hello，我叫陈刚，居住在中国深圳，你也可以叫我 Gavin
 - 📫 邮箱: bigbug.site@gmail.com
-- ⚡ 赞助:  可以通过[爱发电](https://ifdian.net/a/bigbug-gg)对我赞助
+- ⚡ 赞助:  可以通过[爱发电](https://ifdian.net/a/bigbug-gg)赞助
 - 🌱 作品：[[traffic_forward]](https://crates.io/crates/traffic_forward)
 
 
