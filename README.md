@@ -9,7 +9,7 @@
 
 ### Welcome!
 
-- 🏠 Hello, my name is Gavin Chen, with 陈刚 as my Chinese name. I'm a full-stack web development engineer hailing from China.
+- 🏠 Hello, my name is Gavin Chen, with 陈刚(chén gāng) as my Chinese name. I'm a full-stack development engineer hailing from China.
 - 📫 How to reach me: bigbug.site@gmail.com
 - ⚡sponsor: Sponsor me to give me the motivation to work on open-source software. [click](https://ifdian.net/a/bigbug-gg)
 - 🌱 works：[[traffic_forward]](https://crates.io/crates/traffic_forward)
