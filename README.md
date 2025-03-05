@@ -19,7 +19,7 @@
 - ⚡sponsor: Sponsor me to give me the motivation to work on open-source software. [click](https://ifdian.net/a/bigbug-gg)
 - 🌱 works：[[traffic_forward]](https://crates.io/crates/traffic_forward)
 
-  📢 
+📢 Notice
 - ✅ This project is open-source and free to use
 - 💡 Technical support, consulting and customization services are charged
 
