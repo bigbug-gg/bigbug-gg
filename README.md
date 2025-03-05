@@ -5,6 +5,11 @@
 - ⚡ 赞助:  可以通过[爱发电](https://ifdian.net/a/bigbug-gg)赞助
 - 🌱 作品：[[traffic_forward]](https://crates.io/crates/traffic_forward)
 
+📢 声明
+- ✅ 代码开源免费，可自由使用
+- 💡 技术咨询/问题支持/定制开发等请付费联系
+
+
 
 
 ### Welcome!
@@ -13,6 +18,10 @@
 - 📫 How to reach me: bigbug.site@gmail.com
 - ⚡sponsor: Sponsor me to give me the motivation to work on open-source software. [click](https://ifdian.net/a/bigbug-gg)
 - 🌱 works：[[traffic_forward]](https://crates.io/crates/traffic_forward)
+
+  📢 
+- ✅ This project is open-source and free to use
+- 💡 Technical support, consulting and customization services are charged
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
