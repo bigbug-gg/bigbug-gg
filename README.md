@@ -20,8 +20,8 @@
 - 🌱 works：[[traffic_forward]](https://crates.io/crates/traffic_forward)
 
 📢 Notice
-- ✅ This project is open-source and free to use
-- 💡 Technical support, consulting and customization services are charged
+- ✅ All projects are free and open-source.
+- 💡For technical support, consulting and customization services, please contact me for pricing.
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
