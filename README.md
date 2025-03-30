@@ -6,8 +6,8 @@
 - 🌱 作品：[[traffic_forward]](https://crates.io/crates/traffic_forward)
 
 📢 声明
-- ✅ 代码开源免费，可自由使用
-- 💡 技术咨询/问题支持/定制开发等请付费联系
+- ✅ 代码开源，自由使用
+- 💡 付费支持:咨询/定制
 
 
 
