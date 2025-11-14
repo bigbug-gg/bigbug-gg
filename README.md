@@ -4,6 +4,7 @@
 - 📫 邮箱: bigbug.site@gmail.com。
 - ⚡ 赞助:  可以通过[爱发电](https://ifdian.net/a/bigbug-gg)赞助
 - 🌱 作品：[[traffic_forward]](https://crates.io/crates/traffic_forward)
+- 💡 博客：bigbug.site， 不是英译的 大虫子 或 大bug, 而是中文的 “逼格不够”，不要再误会了。
 
 📢 声明
 - ✅ 代码开源，自由使用
