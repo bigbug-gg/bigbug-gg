@@ -1,6 +1,6 @@
 ### Welcome!
 
-- 🏠 Hello，我是 Gavin Chen,中文名叫 陈刚，现居深圳，全栈软件开发。
+- 🏠 Hello，我是 GavinChen,中文名叫 陈刚，现居深圳，全栈软件开发。
 - 📫 邮箱: bigbug.site@gmail.com。
 - ⚡ 赞助:  可以通过[爱发电](https://ifdian.net/a/bigbug-gg)赞助
 - 🌱 作品：[[traffic_forward]](https://crates.io/crates/traffic_forward)
@@ -22,7 +22,7 @@
 
 📢 Notice
 - ✅ All projects are free and open-source.
-- 💡For technical support, consulting and customization services, please contact me for pricing.
+- 💡For technical support, consulting, and customization services, please contact me for pricing.
 
 <!--
 **bigbug-gg/bigbug-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
